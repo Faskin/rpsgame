@@ -90,9 +90,6 @@
     <None Include="Resources\scissors.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\3752541.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\paper.jpg" />
   </ItemGroup>
   <ItemGroup>
